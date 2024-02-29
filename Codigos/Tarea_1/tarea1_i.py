@@ -23,7 +23,7 @@ centroide = [coordenada_x_centroide,coordenada_y_centroide]
 
 #Le ponemos un titulo
 texto1="Centroide de un triángulo\nAutores:\nSantiago Correa Vergara-2182212"
-texto2="\nManuel Felipe Barrera-2191324"
+texto2="\nSamuel Rosado - 2181873\nJuan Camacho - 2180800"
 texto=texto1+texto2
 plt.title(texto, fontsize = 9)
 
