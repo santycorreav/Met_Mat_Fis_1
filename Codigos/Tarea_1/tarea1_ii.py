@@ -4,7 +4,8 @@ proyección de vectores, verificar si son o no coplanares, producto punto,
 (Problema 6, Sección 1.2.7)
 Autores: 
 Santiago Correa Vergara - 2182212
-Manuel Felipe Barrera-2191324
+Samuel Rosado - 2181873
+Juan Camacho - 2180800
 """
 
 #Importamos matplotlib

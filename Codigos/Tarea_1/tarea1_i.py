@@ -2,7 +2,8 @@
 Programa para calcular la centroide de un triángulo (Problema 3, Sección 1.1.6)
 Autores: 
 Santiago Correa Vergara - 2182212
-Manuel Felipe Barrera-2191324
+Samuel Rosado - 2181873
+Juan Camacho - 2180800
 """
 
 #Importamos matplotlib
